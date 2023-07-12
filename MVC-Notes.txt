@@ -1,0 +1,25 @@
+//mvc 
+it is an module of spring which is used to design web application using spring 
+model view controller design pattern 
+it is sub framework of spring framework 
+web application --facebook , twitter 
+
+
+it is based on servlet api or build top on it 
+
+servlet does not follow the pattern mvc so that is y it come into pic of an new architecture
+
+model data
+controller flow controller servlet 
+view presentation layer what to show 
+
+
+it uses the functionality of spring core -inversion control , injection and all 
+
+loosely coupling it make the application as it has power to distribute application to diff part 
+
+dubey1akash
+Qa6@vq5NbYBqE@9
+
+
+
